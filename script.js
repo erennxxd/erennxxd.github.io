@@ -235,12 +235,12 @@ const en = {
     cta_quote: 'Get a quote',
 
     meta_tl: 'Freelance software developer',
-    meta_tr: 'Since 2020',
+    meta_tr: 'Since 2023',
     meta_bl: 'E-commerce software, websites, digital asset protection, Meta & Google Ads',
     meta_br: 'Available for new projects',
 
     statement: 'When the same person builds the site, protects it and grows it with ads, <em>everything works together</em>.',
-    about_p1: "Hi, I'm barretta. I've been building software since 2020, on projects ranging from game server infrastructure to hosting brands and online stores.",
+    about_p1: "Hi, I'm barretta. I've been building software since 2023, on projects ranging from game server infrastructure to hosting brands and online stores.",
     about_p2: 'Today I offer businesses e-commerce, web, security and advertising as one service. Remote, in Turkish and English.',
 
     work_title: 'Selected work',
